@@ -1,0 +1,28 @@
+.profileDiv{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.editUser{
+    width: 50%;
+    margin-left: 5%;  
+}
+
+.userAvatar{
+    width:50%;
+    margin-left: 10%;
+}
+
+.userDetail{    
+    width: 30%;
+}
+
+
+.editForm{
+    margin-top: -8%;
+}
+
+.selectInput{
+    width: 80%
+}

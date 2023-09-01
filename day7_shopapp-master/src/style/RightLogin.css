@@ -1,0 +1,44 @@
+.render{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.left{
+    width: 50%;
+}
+.main{
+    width: 50%;
+    margin-top: -10%;
+
+}
+.loginForm{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 65%;
+    margin: auto auto;
+    
+}
+
+.loginForm > div {
+ 
+    width: 70%;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+.loginForm > h1{
+    margin-left: 5px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+span{
+    color: red;
+}
+
+img{
+    width: 100%;
+}

@@ -1,0 +1,12 @@
+.mainGroup{
+    display: flex;
+    justify-content: center;
+}
+
+.subOne{
+    width: 30%;
+}
+
+.subTwo{
+    width: 50%;
+}

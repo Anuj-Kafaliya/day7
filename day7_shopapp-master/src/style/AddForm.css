@@ -1,0 +1,17 @@
+.itemAdd > .addForm{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.Add{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin-left: 15%;
+    width: 50%
+}
+
+.itemAdd{
+    margin-top: -20%;
+}
